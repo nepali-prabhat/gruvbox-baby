@@ -268,7 +268,7 @@ function M.setup(config)
     PmenuSbar = { bg = c.comment },
     PmenuThumb = { bg = c.foreground },
     EasyMotionShade = { fg = c.NONE },
-    Visual = { bg = c.bg_light },
+    Visual = { bg = c.medium_gray },
     MultiCursor = { bg = c.bg_light },
     Cursor = { bg = c.bg_light, fg = c.NONE },
 
